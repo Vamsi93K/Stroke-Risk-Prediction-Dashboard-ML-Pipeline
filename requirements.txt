@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+sqlalchemy
+mysql-connector-python
+streamlit run "d:\HealthCare Data Analysis\stroke_dashboard.py" 
